@@ -1,4 +1,6 @@
-# I don't do much, and am overwhelmed easily
+# Tasks
+
+> I don't do much, and am overwhelmed easily.
 
 This is a web app that keeps tracks of tasks for me. The catch is that it stores at most three tasks. This is because I find it demotivating to see the number of tasks I inevitably have at all times! I would rather separate the bucket of all tasks I need to do, from the three most important tasks that I will do first. 
 
